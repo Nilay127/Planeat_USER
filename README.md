@@ -1,6 +1,6 @@
-# new_tiffin_user
+# Planeat User
 
-A new Flutter project.
+App for newcomers who miss ethnic/home cooking  matching them to "moms" that supply weekly menu by cooking extra and having a side business.
 
 ## Getting Started
 
